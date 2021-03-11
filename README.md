@@ -15,4 +15,4 @@ This projects allow someone to control a Yeelight smartbulb from their own handw
 1. **extracting-my-handwriting-and-train-model** :  contains python code which extract handwritten characters from an image to create dataset to train model.
 2. **pyimagsearch/az_dataset** : contains python code to read the dataset for training.
 3. **pyimagsearch/models** : contains resnet model which is used for transfer learning.
-4. **lambda functions** : Econtains lambda functions and greengrasssdk to be deployed on greengrass core.
+4. **lambda functions** : contains lambda functions and greengrasssdk to be deployed on greengrass core.
