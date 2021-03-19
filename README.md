@@ -1,5 +1,5 @@
 # Controlling Smart Bulb Using GreenGrass Core And ML
-This projects allow someone to control a Yeelight smartbulb from their own handwritten commands. An IoT thing takes picture of handwritten command and send it to greengrass group where a ML model predicts the word from that handwritten command and sends that command to smart bulb. Implementation and usage of this project is explained [here](https://anubhavjhalani.medium.com/controlling-smart-bulb-using-greengrass-core-and-ml-c284fc922ed5#19a1).
+This projects allow someone to control a Yeelight smartbulb from their own handwritten commands. An IoT thing takes picture of handwritten command and send it to greengrass group where a ML model predicts the command from that picture and sends that command to smart bulb. Implementation and usage of this project is explained [here](https://anubhavjhalani.medium.com/controlling-smart-bulb-using-greengrass-core-and-ml-c284fc922ed5#19a1).
 
 # Work Flow
 ![Screenshot](workflow.jpeg)
