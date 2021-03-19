@@ -10,6 +10,7 @@ This projects allow someone to control a Yeelight smartbulb from their own handw
 3. **AWS IoT Core** - To deploy greengrass group on greengrass core device
 4. **AWS Sagemaker Neo** - To compile Keras model
 5. **S3 Bucket** - To save ML model
+6. **AWS Lambda** - For processing and inferencing
 
 # Directories
 1. **extracting-my-handwriting-and-train-model** :  contains python code which extract handwritten characters from an image to create dataset to train model.
